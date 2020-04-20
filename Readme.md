@@ -1,8 +1,8 @@
 ## Rocketseat - Starter
 
-  Resultado de estudo criado a partir do curso [Starter](https://rocketseat.com.br/starter) da **Rocketseat**
+[Starter Courses](https://rocketseat.com.br/starter) by **Rocketseat**
   
-## Tecnologias
+## Technologies
 
 - ES6
 - NodeJS
