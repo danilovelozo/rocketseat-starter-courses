@@ -2,7 +2,7 @@
 
 [Starter Courses](https://rocketseat.com.br/starter) by **Rocketseat**
   
-## Technologies
+## Stack
 
 - ES6
 - NodeJS
